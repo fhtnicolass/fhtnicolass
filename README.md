@@ -45,7 +45,7 @@
   > 
   > Redes de Computadores
  
-- # ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
+- ## ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
 
 
 <h3 align="left">Minhas redes sociais:</h3>
