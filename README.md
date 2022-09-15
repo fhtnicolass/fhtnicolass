@@ -15,7 +15,9 @@
 
 - 🥅 Estudo atualmente:
   > C# 
+  > 
   > Typescript
+  > 
   > ReactJS
   > Angular
   > SQLServer
