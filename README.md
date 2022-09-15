@@ -45,10 +45,10 @@
   > 
   > Redes de Computadores
  
-- ## ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
+### ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
 
 
-<h3 align="left">Minhas redes sociais:</h3>
+<h3 align="left">Me siga nas redes sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-farhat-36396b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-farhat-36396b20a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fhtnicolass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhtnicolass" height="30" width="40" /></a>
