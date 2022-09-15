@@ -18,9 +18,7 @@
   > HTML, CSS e Javascript
   > 
   > ReactJS
-
-- ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
-
+  > 
 - 🥅 Estudo atualmente:
   > C# 
   > 
@@ -46,6 +44,9 @@
   > Segurança da Informação
   > 
   > Redes de Computadores
+ 
+- # ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
+
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
