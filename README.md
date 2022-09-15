@@ -3,12 +3,20 @@
 ## Meu nome é Nicolas Farhat, e atualmente sou estagiário em TI na IntellTech!
 
 - 🌱 Já fiz alguns projetos envolvendo:
+  > NodeJS, NPM
+  > 
   > MySQL
+  > 
   > PostgreSQL
+  > 
   > Oracle
-  > Java (Servlets, Swing, SpringBoot) 
-  > Python (Flask, SQLAlchemy) 
+  > 
+  > Java (Servlets, Swing, SpringBoot)
+  >  
+  > Python (Flask, SQLAlchemy)
+  >  
   > HTML, CSS e Javascript
+  > 
   > ReactJS
 
 - ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
@@ -19,16 +27,24 @@
   > Typescript
   > 
   > ReactJS
+  > 
   > Angular
+  > 
   > SQLServer
+  > 
   > React Native
 
 - 🧠 Pretendo me aprofundar futuramente em:
   > Flutter 
+  > 
   > MongoDB
+  > 
   > Conceitos de UX/UI
+  > 
   > .NET
+  > 
   > Segurança da Informação
+  > 
   > Redes de Computadores
 
 <h3 align="left">Minhas redes sociais:</h3>
