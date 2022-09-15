@@ -1,18 +1,33 @@
 # Olá a todos, sejam bem vindos ao meu perfil do GitHub 👋
 
-## Meu nome é Nicolas Farhat, atualmente sou um estudante de TI!
+## Meu nome é Nicolas Farhat, e atualmente sou estagiário em TI na IntellTech!
 
-- 🌱 Atualmente estudo desenvolvimento web em Java, Python e HTML/CSS/JAVASCRIPT. 
+- 🌱 Já fiz alguns projetos envolvendo:
+  > MySQL
+  > PostgreSQL
+  > Oracle
+  > Java (Servlets, Swing, SpringBoot) 
+  > Python (Flask, SQLAlchemy) 
+  > HTML, CSS e Javascript
+  > ReactJS
 
 - ⚡ Tenho como objetivo preencher esse perfil do GitHub com vários repositórios com a finalidade de treinar e exibir o progresso em relação às minhas habilidades em desenvolvimento.
 
-- 🥅 Pretendo me aprofundar futuramente nas seguintes tecnologias:
-  - C# 
-  - .Net
-  - Typescript
-  - ReactJS
-  - Flutter
+- 🥅 Estudo atualmente:
+  > C# 
+  > Typescript
+  > ReactJS
+  > Angular
+  > SQLServer
+  > React Native
 
+- 🧠 Pretendo me aprofundar futuramente em:
+  > Flutter 
+  > MongoDB
+  > Conceitos de UX/UI
+  > .NET
+  > Segurança da Informação
+  > Redes de Computadores
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
