@@ -59,4 +59,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhtnicolass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhtnicolass&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gsj4kn7zqdko3btwlfh4ninbje&unique={true|1|on|yes})
