@@ -54,10 +54,6 @@
 <a href="https://www.instagram.com/fhtnicolass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhtnicolass" height="30" width="40" /></a>
 </p>
 
-<p align="left">✨ Creating bugs since 2021<br>
-
-<img href="https://raw.githubusercontent.com/fhtnicolass/fhtnicolass/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -72,3 +68,5 @@
 </div>
 
 ###
+
+<img href="https://raw.githubusercontent.com/fhtnicolass/fhtnicolass/blob/output/snake.svg" alt="Snake animation" />
