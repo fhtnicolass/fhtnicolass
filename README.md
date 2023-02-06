@@ -26,7 +26,7 @@
   > 
   > ReactJS
   > 
-  > Angular
+  > AngularJS
   > 
   > SQLServer
   > 
