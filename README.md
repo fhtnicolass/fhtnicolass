@@ -1,6 +1,6 @@
 # Olá a todos, sejam bem vindos ao meu perfil do GitHub 👋
 
-## Meu nome é Nicolas Farhat, e atualmente sou estagiário em TI na IntellTech!
+## Meu nome é Nicolas Farhat, e atualmente sou um desenvolvedor de sistemas!
 
 - 🌱 Já fiz alguns projetos envolvendo:
   > NodeJS, NPM
